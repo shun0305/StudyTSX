@@ -8,7 +8,7 @@ const HomeScreen = () => {
         <Text>Navigation </Text>
       </View>
       <View style={styles.body}>
-        <Text> Home Screen </Text>
+        <Text> Home jiji </Text>
       </View>
       <View style={styles.footer}>
         <Text> s </Text>
