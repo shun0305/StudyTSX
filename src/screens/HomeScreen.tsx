@@ -11,7 +11,7 @@ const HomeScreen = () => {
         <Text> Home Screen </Text>
       </View>
       <View style={styles.footer}>
-        <Text> kokoko </Text>
+        <Text> s </Text>
       </View>
     </View>
   );
